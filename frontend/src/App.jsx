@@ -48,6 +48,9 @@ function App() {
             <img src="/public/00b7563f8c0c397b9511f0d17e0e32cc.jpg" alt="" />
             <img src="/public/1c6f215f32e428e741af4e4535ecd5fb.jpg" alt="" />
             <img src="/public/1ebda8a4437c206a2ba0af73a82d1cd9.jpg" alt="" />
+            <video>
+              <source src=''/>
+            </video>
           </div>
           <div>
             <video width="600" controls>
